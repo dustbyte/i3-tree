@@ -1,0 +1,1013 @@
+{
+    "border": "normal",
+    "current_border_width": -1,
+    "deco_rect": {
+        "height": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+    },
+    "floating": "auto_off",
+    "floating_nodes": [],
+    "focus": [
+        21703040,
+        21752048,
+        21697456
+    ],
+    "focused": false,
+    "fullscreen_mode": 0,
+    "geometry": {
+        "height": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+    },
+    "id": 21696960,
+    "last_split_layout": "splith",
+    "layout": "splith",
+    "name": "root",
+    "nodes": [
+        {
+            "border": "normal",
+            "current_border_width": -1,
+            "deco_rect": {
+                "height": 0,
+                "width": 0,
+                "x": 0,
+                "y": 0
+            },
+            "floating": "auto_off",
+            "floating_nodes": [],
+            "focus": [
+                21698480
+            ],
+            "focused": false,
+            "fullscreen_mode": 0,
+            "geometry": {
+                "height": 0,
+                "width": 0,
+                "x": 0,
+                "y": 0
+            },
+            "id": 21697456,
+            "last_split_layout": "splith",
+            "layout": "output",
+            "name": "__i3",
+            "nodes": [
+                {
+                    "border": "normal",
+                    "current_border_width": -1,
+                    "deco_rect": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "floating": "auto_off",
+                    "floating_nodes": [],
+                    "focus": [
+                        21699040
+                    ],
+                    "focused": false,
+                    "fullscreen_mode": 0,
+                    "geometry": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "id": 21698480,
+                    "last_split_layout": "splith",
+                    "layout": "splith",
+                    "name": "content",
+                    "nodes": [
+                        {
+                            "border": "normal",
+                            "current_border_width": -1,
+                            "deco_rect": {
+                                "height": 0,
+                                "width": 0,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "floating": "auto_off",
+                            "floating_nodes": [],
+                            "focus": [],
+                            "focused": false,
+                            "fullscreen_mode": 1,
+                            "geometry": {
+                                "height": 0,
+                                "width": 0,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "id": 21699040,
+                            "last_split_layout": "splith",
+                            "layout": "splith",
+                            "name": "__i3_scratch",
+                            "nodes": [],
+                            "num": -1,
+                            "orientation": "none",
+                            "percent": null,
+                            "rect": {
+                                "height": 0,
+                                "width": 0,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "scratchpad_state": "none",
+                            "swallows": [],
+                            "type": "workspace",
+                            "urgent": false,
+                            "window": null,
+                            "window_rect": {
+                                "height": 0,
+                                "width": 0,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "workspace_layout": "default"
+                        }
+                    ],
+                    "orientation": "horizontal",
+                    "percent": null,
+                    "rect": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "scratchpad_state": "none",
+                    "swallows": [],
+                    "type": "con",
+                    "urgent": false,
+                    "window": null,
+                    "window_rect": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "workspace_layout": "default"
+                }
+            ],
+            "orientation": "none",
+            "percent": 0.3333333333333333,
+            "rect": {
+                "height": 768,
+                "width": 1366,
+                "x": 0,
+                "y": 0
+            },
+            "scratchpad_state": "none",
+            "swallows": [],
+            "type": "output",
+            "urgent": false,
+            "window": null,
+            "window_rect": {
+                "height": 0,
+                "width": 0,
+                "x": 0,
+                "y": 0
+            },
+            "workspace_layout": "default"
+        },
+        {
+            "border": "normal",
+            "current_border_width": -1,
+            "deco_rect": {
+                "height": 0,
+                "width": 0,
+                "x": 0,
+                "y": 0
+            },
+            "floating": "auto_off",
+            "floating_nodes": [],
+            "focus": [
+                21704016,
+                21703408,
+                21747168
+            ],
+            "focused": false,
+            "fullscreen_mode": 0,
+            "geometry": {
+                "height": 0,
+                "width": 0,
+                "x": 0,
+                "y": 0
+            },
+            "id": 21703040,
+            "last_split_layout": "splith",
+            "layout": "output",
+            "name": "eDP1",
+            "nodes": [
+                {
+                    "border": "normal",
+                    "current_border_width": -1,
+                    "deco_rect": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "floating": "auto_off",
+                    "floating_nodes": [],
+                    "focus": [],
+                    "focused": false,
+                    "fullscreen_mode": 0,
+                    "geometry": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "id": 21703408,
+                    "last_split_layout": "splith",
+                    "layout": "dockarea",
+                    "name": "topdock",
+                    "nodes": [],
+                    "orientation": "none",
+                    "percent": null,
+                    "rect": {
+                        "height": 0,
+                        "width": 1366,
+                        "x": 0,
+                        "y": 768
+                    },
+                    "scratchpad_state": "none",
+                    "swallows": [
+                        {
+                            "dock": 2,
+                            "insert_where": 2
+                        }
+                    ],
+                    "type": "dockarea",
+                    "urgent": false,
+                    "window": null,
+                    "window_rect": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "workspace_layout": "default"
+                },
+                {
+                    "border": "normal",
+                    "current_border_width": -1,
+                    "deco_rect": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "floating": "auto_off",
+                    "floating_nodes": [],
+                    "focus": [
+                        21748176
+                    ],
+                    "focused": false,
+                    "fullscreen_mode": 0,
+                    "geometry": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "id": 21704016,
+                    "last_split_layout": "splith",
+                    "layout": "splith",
+                    "name": "content",
+                    "nodes": [
+                        {
+                            "border": "normal",
+                            "current_border_width": -1,
+                            "deco_rect": {
+                                "height": 0,
+                                "width": 0,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "floating": "auto_off",
+                            "floating_nodes": [],
+                            "focus": [
+                                21751424
+                            ],
+                            "focused": false,
+                            "fullscreen_mode": 1,
+                            "geometry": {
+                                "height": 0,
+                                "width": 0,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "id": 21748176,
+                            "last_split_layout": "splitv",
+                            "layout": "splitv",
+                            "name": "1",
+                            "nodes": [
+                                {
+                                    "border": "normal",
+                                    "current_border_width": -1,
+                                    "deco_rect": {
+                                        "height": 0,
+                                        "width": 0,
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "floating": "auto_off",
+                                    "floating_nodes": [],
+                                    "focus": [
+                                        21751056
+                                    ],
+                                    "focused": false,
+                                    "fullscreen_mode": 0,
+                                    "geometry": {
+                                        "height": 0,
+                                        "width": 0,
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "id": 21751424,
+                                    "last_split_layout": "splith",
+                                    "layout": "stacked",
+                                    "name": null,
+                                    "nodes": [
+                                        {
+                                            "border": "normal",
+                                            "current_border_width": 2,
+                                            "deco_rect": {
+                                                "height": 18,
+                                                "width": 1366,
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "floating": "auto_off",
+                                            "floating_nodes": [],
+                                            "focus": [],
+                                            "focused": true,
+                                            "fullscreen_mode": 0,
+                                            "geometry": {
+                                                "height": 316,
+                                                "width": 484,
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "id": 21751056,
+                                            "last_split_layout": "splith",
+                                            "layout": "splith",
+                                            "name": "xterm",
+                                            "nodes": [],
+                                            "orientation": "none",
+                                            "percent": null,
+                                            "rect": {
+                                                "height": 731,
+                                                "width": 1366,
+                                                "x": 0,
+                                                "y": 786
+                                            },
+                                            "scratchpad_state": "none",
+                                            "swallows": [],
+                                            "type": "con",
+                                            "urgent": false,
+                                            "window": 20971533,
+                                            "window_properties": {
+                                                "class": "XTerm",
+                                                "instance": "xterm",
+                                                "title": "xterm",
+                                                "transient_for": null
+                                            },
+                                            "window_rect": {
+                                                "height": 727,
+                                                "width": 1360,
+                                                "x": 2,
+                                                "y": 0
+                                            },
+                                            "workspace_layout": "default"
+                                        }
+                                    ],
+                                    "orientation": "vertical",
+                                    "percent": 1.0,
+                                    "rect": {
+                                        "height": 749,
+                                        "width": 1366,
+                                        "x": 0,
+                                        "y": 768
+                                    },
+                                    "scratchpad_state": "none",
+                                    "swallows": [],
+                                    "type": "con",
+                                    "urgent": false,
+                                    "window": null,
+                                    "window_rect": {
+                                        "height": 0,
+                                        "width": 0,
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "workspace_layout": "default"
+                                }
+                            ],
+                            "num": 1,
+                            "orientation": "vertical",
+                            "percent": null,
+                            "rect": {
+                                "height": 749,
+                                "width": 1366,
+                                "x": 0,
+                                "y": 768
+                            },
+                            "scratchpad_state": "none",
+                            "swallows": [],
+                            "type": "workspace",
+                            "urgent": false,
+                            "window": null,
+                            "window_rect": {
+                                "height": 0,
+                                "width": 0,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "workspace_layout": "stacked"
+                        }
+                    ],
+                    "orientation": "horizontal",
+                    "percent": null,
+                    "rect": {
+                        "height": 749,
+                        "width": 1366,
+                        "x": 0,
+                        "y": 768
+                    },
+                    "scratchpad_state": "none",
+                    "swallows": [],
+                    "type": "con",
+                    "urgent": false,
+                    "window": null,
+                    "window_rect": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "workspace_layout": "default"
+                },
+                {
+                    "border": "normal",
+                    "current_border_width": -1,
+                    "deco_rect": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "floating": "auto_off",
+                    "floating_nodes": [],
+                    "focus": [
+                        21747648
+                    ],
+                    "focused": false,
+                    "fullscreen_mode": 0,
+                    "geometry": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "id": 21747168,
+                    "last_split_layout": "splith",
+                    "layout": "dockarea",
+                    "name": "bottomdock",
+                    "nodes": [
+                        {
+                            "border": "normal",
+                            "current_border_width": 2,
+                            "deco_rect": {
+                                "height": 0,
+                                "width": 0,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "floating": "auto_off",
+                            "floating_nodes": [],
+                            "focus": [],
+                            "focused": false,
+                            "fullscreen_mode": 0,
+                            "geometry": {
+                                "height": 19,
+                                "width": 1366,
+                                "x": 0,
+                                "y": 749
+                            },
+                            "id": 21747648,
+                            "last_split_layout": "splith",
+                            "layout": "splith",
+                            "name": "i3bar for output eDP1",
+                            "nodes": [],
+                            "orientation": "none",
+                            "percent": 1.0,
+                            "rect": {
+                                "height": 19,
+                                "width": 1366,
+                                "x": 0,
+                                "y": 1517
+                            },
+                            "scratchpad_state": "none",
+                            "swallows": [],
+                            "type": "con",
+                            "urgent": false,
+                            "window": 8388615,
+                            "window_properties": {
+                                "class": "i3bar",
+                                "instance": "i3bar",
+                                "title": "i3bar for output eDP1",
+                                "transient_for": null
+                            },
+                            "window_rect": {
+                                "height": 19,
+                                "width": 1366,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "workspace_layout": "default"
+                        }
+                    ],
+                    "orientation": "none",
+                    "percent": null,
+                    "rect": {
+                        "height": 19,
+                        "width": 1366,
+                        "x": 0,
+                        "y": 1517
+                    },
+                    "scratchpad_state": "none",
+                    "swallows": [
+                        {
+                            "dock": 3,
+                            "insert_where": 2
+                        }
+                    ],
+                    "type": "dockarea",
+                    "urgent": false,
+                    "window": null,
+                    "window_rect": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "workspace_layout": "default"
+                }
+            ],
+            "orientation": "none",
+            "percent": 0.3333333333333333,
+            "rect": {
+                "height": 768,
+                "width": 1366,
+                "x": 0,
+                "y": 768
+            },
+            "scratchpad_state": "none",
+            "swallows": [],
+            "type": "output",
+            "urgent": false,
+            "window": null,
+            "window_rect": {
+                "height": 0,
+                "width": 0,
+                "x": 0,
+                "y": 0
+            },
+            "workspace_layout": "default"
+        },
+        {
+            "border": "normal",
+            "current_border_width": -1,
+            "deco_rect": {
+                "height": 0,
+                "width": 0,
+                "x": 0,
+                "y": 0
+            },
+            "floating": "auto_off",
+            "floating_nodes": [],
+            "focus": [
+                21788992,
+                21788624,
+                21789488
+            ],
+            "focused": false,
+            "fullscreen_mode": 0,
+            "geometry": {
+                "height": 0,
+                "width": 0,
+                "x": 0,
+                "y": 0
+            },
+            "id": 21752048,
+            "last_split_layout": "splith",
+            "layout": "output",
+            "name": "HDMI1",
+            "nodes": [
+                {
+                    "border": "normal",
+                    "current_border_width": -1,
+                    "deco_rect": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "floating": "auto_off",
+                    "floating_nodes": [],
+                    "focus": [],
+                    "focused": false,
+                    "fullscreen_mode": 0,
+                    "geometry": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "id": 21788624,
+                    "last_split_layout": "splith",
+                    "layout": "dockarea",
+                    "name": "topdock",
+                    "nodes": [],
+                    "orientation": "none",
+                    "percent": null,
+                    "rect": {
+                        "height": 0,
+                        "width": 1366,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "scratchpad_state": "none",
+                    "swallows": [
+                        {
+                            "dock": 2,
+                            "insert_where": 2
+                        }
+                    ],
+                    "type": "dockarea",
+                    "urgent": false,
+                    "window": null,
+                    "window_rect": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "workspace_layout": "default"
+                },
+                {
+                    "border": "normal",
+                    "current_border_width": -1,
+                    "deco_rect": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "floating": "auto_off",
+                    "floating_nodes": [],
+                    "focus": [
+                        21790096
+                    ],
+                    "focused": false,
+                    "fullscreen_mode": 0,
+                    "geometry": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "id": 21788992,
+                    "last_split_layout": "splith",
+                    "layout": "splith",
+                    "name": "content",
+                    "nodes": [
+                        {
+                            "border": "normal",
+                            "current_border_width": -1,
+                            "deco_rect": {
+                                "height": 0,
+                                "width": 0,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "floating": "auto_off",
+                            "floating_nodes": [],
+                            "focus": [
+                                21796080
+                            ],
+                            "focused": false,
+                            "fullscreen_mode": 1,
+                            "geometry": {
+                                "height": 0,
+                                "width": 0,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "id": 21790096,
+                            "last_split_layout": "splitv",
+                            "layout": "splitv",
+                            "name": "2",
+                            "nodes": [
+                                {
+                                    "border": "normal",
+                                    "current_border_width": -1,
+                                    "deco_rect": {
+                                        "height": 0,
+                                        "width": 0,
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "floating": "auto_off",
+                                    "floating_nodes": [],
+                                    "focus": [
+                                        21795712
+                                    ],
+                                    "focused": false,
+                                    "fullscreen_mode": 0,
+                                    "geometry": {
+                                        "height": 0,
+                                        "width": 0,
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "id": 21796080,
+                                    "last_split_layout": "splith",
+                                    "layout": "stacked",
+                                    "name": null,
+                                    "nodes": [
+                                        {
+                                            "border": "normal",
+                                            "current_border_width": 2,
+                                            "deco_rect": {
+                                                "height": 18,
+                                                "width": 1366,
+                                                "x": 0,
+                                                "y": 0
+                                            },
+                                            "floating": "auto_off",
+                                            "floating_nodes": [],
+                                            "focus": [],
+                                            "focused": false,
+                                            "fullscreen_mode": 0,
+                                            "geometry": {
+                                                "height": 729,
+                                                "width": 1362,
+                                                "x": 2,
+                                                "y": 18
+                                            },
+                                            "id": 21795712,
+                                            "last_split_layout": "splith",
+                                            "layout": "splith",
+                                            "name": "Firefox",
+                                            "nodes": [],
+                                            "orientation": "none",
+                                            "percent": null,
+                                            "rect": {
+                                                "height": 731,
+                                                "width": 1366,
+                                                "x": 0,
+                                                "y": 18
+                                            },
+                                            "scratchpad_state": "none",
+                                            "swallows": [],
+                                            "type": "con",
+                                            "urgent": false,
+                                            "window": 25165825,
+                                            "window_properties": {
+                                                "class": "firefox",
+                                                "instance": "firefox",
+                                                "title": "firefox",
+                                                "transient_for": null,
+                                                "window_role": "browser"
+                                            },
+                                            "window_rect": {
+                                                "height": 729,
+                                                "width": 1362,
+                                                "x": 2,
+                                                "y": 0
+                                            },
+                                            "workspace_layout": "default"
+                                        }
+                                    ],
+                                    "orientation": "vertical",
+                                    "percent": 1.0,
+                                    "rect": {
+                                        "height": 749,
+                                        "width": 1366,
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "scratchpad_state": "none",
+                                    "swallows": [],
+                                    "type": "con",
+                                    "urgent": false,
+                                    "window": null,
+                                    "window_rect": {
+                                        "height": 0,
+                                        "width": 0,
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "workspace_layout": "default"
+                                }
+                            ],
+                            "num": 2,
+                            "orientation": "vertical",
+                            "percent": null,
+                            "rect": {
+                                "height": 749,
+                                "width": 1366,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "scratchpad_state": "none",
+                            "swallows": [],
+                            "type": "workspace",
+                            "urgent": false,
+                            "window": null,
+                            "window_rect": {
+                                "height": 0,
+                                "width": 0,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "workspace_layout": "stacked"
+                        }
+                    ],
+                    "orientation": "horizontal",
+                    "percent": null,
+                    "rect": {
+                        "height": 749,
+                        "width": 1366,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "scratchpad_state": "none",
+                    "swallows": [],
+                    "type": "con",
+                    "urgent": false,
+                    "window": null,
+                    "window_rect": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "workspace_layout": "default"
+                },
+                {
+                    "border": "normal",
+                    "current_border_width": -1,
+                    "deco_rect": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "floating": "auto_off",
+                    "floating_nodes": [],
+                    "focus": [
+                        21791936
+                    ],
+                    "focused": false,
+                    "fullscreen_mode": 0,
+                    "geometry": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "id": 21789488,
+                    "last_split_layout": "splith",
+                    "layout": "dockarea",
+                    "name": "bottomdock",
+                    "nodes": [
+                        {
+                            "border": "normal",
+                            "current_border_width": 2,
+                            "deco_rect": {
+                                "height": 0,
+                                "width": 0,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "floating": "auto_off",
+                            "floating_nodes": [],
+                            "focus": [],
+                            "focused": false,
+                            "fullscreen_mode": 0,
+                            "geometry": {
+                                "height": 19,
+                                "width": 1366,
+                                "x": 0,
+                                "y": 749
+                            },
+                            "id": 21791936,
+                            "last_split_layout": "splith",
+                            "layout": "splith",
+                            "name": "i3bar for output HDMI1",
+                            "nodes": [],
+                            "orientation": "none",
+                            "percent": 1.0,
+                            "rect": {
+                                "height": 19,
+                                "width": 1366,
+                                "x": 0,
+                                "y": 749
+                            },
+                            "scratchpad_state": "none",
+                            "swallows": [],
+                            "type": "con",
+                            "urgent": false,
+                            "window": 8388625,
+                            "window_properties": {
+                                "class": "i3bar",
+                                "instance": "i3bar",
+                                "title": "i3bar for output HDMI1",
+                                "transient_for": null
+                            },
+                            "window_rect": {
+                                "height": 19,
+                                "width": 1366,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "workspace_layout": "default"
+                        }
+                    ],
+                    "orientation": "none",
+                    "percent": null,
+                    "rect": {
+                        "height": 19,
+                        "width": 1366,
+                        "x": 0,
+                        "y": 749
+                    },
+                    "scratchpad_state": "none",
+                    "swallows": [
+                        {
+                            "dock": 3,
+                            "insert_where": 2
+                        }
+                    ],
+                    "type": "dockarea",
+                    "urgent": false,
+                    "window": null,
+                    "window_rect": {
+                        "height": 0,
+                        "width": 0,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "workspace_layout": "default"
+                }
+            ],
+            "orientation": "none",
+            "percent": 0.3333333333333333,
+            "rect": {
+                "height": 768,
+                "width": 1366,
+                "x": 0,
+                "y": 0
+            },
+            "scratchpad_state": "none",
+            "swallows": [],
+            "type": "output",
+            "urgent": false,
+            "window": null,
+            "window_rect": {
+                "height": 0,
+                "width": 0,
+                "x": 0,
+                "y": 0
+            },
+            "workspace_layout": "default"
+        }
+    ],
+    "orientation": "horizontal",
+    "percent": null,
+    "rect": {
+        "height": 1536,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+    },
+    "scratchpad_state": "none",
+    "swallows": [],
+    "type": "root",
+    "urgent": false,
+    "window": null,
+    "window_rect": {
+        "height": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+    },
+    "workspace_layout": "default"
+}
