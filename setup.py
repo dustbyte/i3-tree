@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="i3-tree",
-    version="0.1",
+    version="0.2",
     author="Pierre Wacrenier",
     author_email="mota@souitom.org",
     description="Convenient Python lib to manipulate an i3 WM tree",
